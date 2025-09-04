@@ -1,5 +1,4 @@
-package org.example;
-import java.util.ArrayList;
+package org.example.part1;
 
 public class Philosopher {
     private final Chopstick left;

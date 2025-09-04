@@ -1,4 +1,4 @@
-package org.example;
+package org.example.part1;
 
 public class Chopstick {
     private boolean acquired = false;
